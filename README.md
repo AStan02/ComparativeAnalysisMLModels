@@ -5,4 +5,4 @@ Special thanks to Avinor for the passenger data.
 
 The other 4 files are the .ipynb (jupyter notebook) Python code files containing the code that was used for the data cleaning, preprocessing, ML model training and evaluation.
 "DataPreprocessing.ipynb" contains the code that was used for the preprocessing of the data, and explains how the dataset is created. Note that considering that the raw data was yearly, 11 csv's for the passenger data and 11 csv's for the weather data, many of the code blocks were executed once for each yearly csv. Furthermore some preprocessing steps such as dataset splitting, normalization and reshaping are within each of the ML model .ipynb files.
-"LSTM_Model.ipynb", "SVRM_Model.ipynb", and "RF_Model.ipynb" each correspond to the ML algorithm that has been trained, tested and evaluated on the same dataset.
+"LSTM_Model_Code.ipynb", "SVRM_Model_Code.ipynb", and "RF_Model_Code.ipynb" each correspond to the ML algorithm that has been trained, tested and evaluated.
