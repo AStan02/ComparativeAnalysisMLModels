@@ -1,6 +1,6 @@
 This is the repository for the thesis "A Comparative Analysis of Machine Learning Algorithms for the Purpose of Predicting Norwegian Air Passenger Traffic" by Aleksander Stanulov.
 
-"Air2009-2019_Sample.csv" is sample data from the real dataset that has 744 rows corresponding to a month of data for January 2009. This is not the data used for the ML models, the actual dataset contains 96185 rows spanning from 2009 to 2019. The actual dataset could not be shared because of it's sensitive nature. 
+"Air2009-2019_Sample.csv" is sample data from the real dataset that has 744 rows corresponding to a month of data for January 2009. This is not the data used for the ML models, the actual dataset contains 96185 rows spanning from 2009 to 2019. The actual dataset could not be shared by the request of Avinor. 
 Special thanks to Avinor for the passenger data.
 
 The other 4 files are the .ipynb (jupyter notebook) Python code files containing the code that was used for the data cleaning, preprocessing, ML model training and evaluation.
